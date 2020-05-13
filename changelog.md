@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.1.1] - 2020-05-12
+- Fixed issue with --icon-plus variation
+
 ## [1.1.0] - 2020-03-04
 - Simplified structure to make accordion easier to integrate in other components
 
