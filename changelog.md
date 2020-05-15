@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.1.2] - 2020-05-12
+- New Accordion object - used to initialize dynamic ontent
+
 ## [1.1.1] - 2020-05-12
 - Fixed issue with --icon-plus variation
 
