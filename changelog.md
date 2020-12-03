@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.2.0] - 2020-12-02
+- Deep Linking option
+
 ## [1.1.2] - 2020-05-12
 - New Accordion object - used to initialize dynamic ontent
 
